@@ -12,7 +12,7 @@
 *слухати музику
 
 # Мої контакти ᓚᘏᗢ
-* [Website](http://smallyukii.me)
+* [Website](https://kharkovkent.github.io/kent-website/)
 * [Instagram](https://www.instagram.com/kharkov_kent?igsh=aHdncXFqM2t5bXFm)
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
