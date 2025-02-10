@@ -5,3 +5,5 @@
 </div>
 <div>
   <br>
+<h2 align="center">💖 ~ Дякую за перегляд! ~ 💖</h2>
+<div align="center">
