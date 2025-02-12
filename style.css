@@ -6,8 +6,8 @@ body {
 }
 
 header {
-  background-color: #333;
-  color: yellow;
+  background-color: #702f2f;
+  color: rgb(249, 249, 249);
   padding: 1rem;
 }
 
@@ -26,8 +26,10 @@ nav li {
 }
 
 nav a {
-  color: #fff;
+  color: #350d0d;
   text-decoration: none;
+  font-family: cursive;
+  font-size: 20pt;
 }
 
 main {
